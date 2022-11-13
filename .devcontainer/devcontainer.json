@@ -1,0 +1,8 @@
+{
+  "name": "voice-channel-notifier",
+  "dockerFile": "../Dockerfile",
+  "workspaceFolder": "/bot",
+  "extensions": [
+    "golang.go"
+  ]
+}
