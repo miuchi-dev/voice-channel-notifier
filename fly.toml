@@ -1,0 +1,7 @@
+# fly.toml file generated for voice-channel-notifier on 2022-11-13T19:36:38+09:00
+
+app = "voice-channel-notifier"
+
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []
